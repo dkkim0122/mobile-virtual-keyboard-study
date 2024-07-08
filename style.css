@@ -21,3 +21,11 @@
   background-color: cornflowerblue;
   width: 100%;
 }
+
+#calculator {
+  position: fixed;
+  top: 50%;
+  right: 0;
+  padding: 8px;
+  background-color: brown;
+}
