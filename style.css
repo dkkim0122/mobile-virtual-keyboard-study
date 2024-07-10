@@ -9,8 +9,8 @@
 #content {
   height: 100%;
   overflow-y: auto;
-  margin-top: 75px;
-  margin-bottom: 50px;
+  padding-top: 75px;
+  padding-bottom: 50px;
   background-color: antiquewhite;
 }
 
